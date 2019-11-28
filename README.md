@@ -1,4 +1,4 @@
-# E-Crime-Management-System
+# Online-Crime-Repirting-and-Management-System
 PHP Training Project: It is a website where user can log an FIR online. This website has 4 module- Head-quarter, Incharge, Police, User. It is multifunctional website with back end support
   Project Objective:
   1. •	To provide an online platform where user can log a FIR at ease.
